@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T13:42:20.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jJQh4CrvFQTA3eGc0D2N" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T13:45:13.467Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="f6NeXhbhqtnAOoJ_3jdl" version="17.4.6" type="github">
   <diagram id="rNwOuYuvoyoFhMVkIma-" name="Page-1">
     <mxGraphModel dx="941" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,11 +45,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JfXkoGwF4fZg0M2-B8ze-10" value="Merge request&lt;br&gt;&amp;nbsp;ouverte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="555" width="90" height="30" as="geometry" />
+        <mxCell id="JfXkoGwF4fZg0M2-B8ze-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Merge request&lt;br&gt;&amp;nbsp;ouverte&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="550" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JfXkoGwF4fZg0M2-B8ze-12" value="Création&lt;br&gt;Merge Request&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="565" width="100" height="50" as="geometry" />
+        <mxCell id="JfXkoGwF4fZg0M2-B8ze-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Création&lt;br&gt;Merge Request&lt;br&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="569" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JfXkoGwF4fZg0M2-B8ze-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-128.png" vertex="1" parent="1">
           <mxGeometry x="1347.5" y="474" width="95" height="95" as="geometry" />
